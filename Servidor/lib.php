@@ -56,7 +56,7 @@
 		public static function end() {
         	$html = " 
 			<footer>
-				<p>Alberto Sosa 2016</p>
+				<p>hecho en 2016</p>
 			</footer>
 			</body>
 			</html>";
